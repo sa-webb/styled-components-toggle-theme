@@ -1,3 +1,5 @@
-# Dark Mode Theme Toggle
+# Styled-components Theme Toggle
 
-<https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider/>
+Theme toggling using ThemeProvider
+
+[Source](https://css-tricks.com/a-dark-mode-toggle-with-react-and-themeprovider)
