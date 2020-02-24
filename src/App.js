@@ -4,7 +4,7 @@ import { lightTheme, darkTheme } from './theme';
 import { GlobalStyles } from './global';
 import { useDarkMode } from './useDarkMode';
 
-function App() {
+const App = () => {
   const [theme, toggleTheme, componentMounted] = useDarkMode();
   const themeMode = theme === 'light' ? lightTheme : darkTheme;
 
